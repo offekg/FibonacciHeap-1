@@ -1,6 +1,6 @@
 //written by:
-//Timor Eizenman; timore; 308145309
-//Offek Gil; offekgil; 308315092
+//Timor Eizenman; timore;
+//Offek Gil; offekgil;
 
 
 
